@@ -1,0 +1,111 @@
+1  - Apresentação, cronograma, ementa e  provas
+2  - Introdução: preliminares matemáticas
+3  - Exercícios
+4  - Linguagens: conjuntos e expressões regulares
+5  - Exercícios
+6  - Autômatos
+7  - Exercícios
+8  - Autômatos e Linguagens: pumping lemma
+9  - Exercícios
+10 - Gramáticas
+11 - Prova
+12 - Entrega e Correção de provas
+13 - Trabalho
+14 - Autômato de pilha e Pumping Lemma para LLC
+15 - Exercícios
+16 - Máquinas de Turing
+17 - Exercícios
+18 - Máquinas de Turing
+20 - Hierarquia de Chomsky
+21 - Exercícios 
+22 - Prova 
+23 - Entrega e Correção de provas
+24 - Problemas de decisão
+25 - Exercícios
+26 - Problemas indecidíveis
+27 - Redutibilidade
+28 - Exercícios
+29 - Problema da Parada
+30 - Exercícios
+31 - Avaliação substitutiva
+32 - Avaliação final
+33 - Entrega e correção de avaliação 
+34 - Exercícios
+35 - Reavaliação
+36 - Entrega e correção de avaliação e encerramento semestre
+
+***************************************************************
+
+Ementa
+
+Classificação e propriedades das gramáticas, autômatos e linguagens formais.
+Decidibilidade. Computabilidade.
+
+Unidades
+
+I. Introdução - Problema de computabilidade e complexidade 
+1. Capacidades e limitações da máquina.
+2. Classes de problemas computáveis
+
+II. Expressões regulares 
+1. Definições básicas
+2. Operações sobre linguagens
+3. Expressões regulares
+
+III. Gramáticas Livres de Contexto 
+1. Gramáticas e linguagens
+2. Derivações à esquerda e direita
+3. Árvore de derivação e ambigüidade
+4. Gramáticas regulares
+5. Grafos de uma gramática
+
+IV. Normalização de gramáticas 
+1. Técnicas de normalização
+2. Forma Normal de Chomsky
+
+V. Autômatos Finitos 
+1. AFD e AFN
+2. Remoção de não-determinismo
+3. Grafos de expressões
+
+VI. Linguagens e Conjuntos Regulares 
+1. Gramáticas regulares e autômatos
+2. Lema do bombeamento
+
+VII. Autômatos de Pilha e LLC 
+1. Autômatos de pilha
+2. Linguagens livres de contexto e autômatos
+3. Lema do bombeamento
+
+VIII. Máquinas de Turing 
+1. Conceitos básicos
+2. Variações sobre a máquina padrão
+
+IX. A Hierarquia de Chomsky 
+1. Classes de gramáticas
+2. Gramáticas, linguagens e máquinas
+
+X. Decidibilidade 
+1. Problemas de decisão
+2. A tese de Church-Turing
+3. Problemas indecidíveis
+
+
+Processo de Avaliação
+
+Prova 1: 30 pontos
+Prova 2: 30 pontos
+Prova 3: 30 pontos
+
+Exercícios, artigo e trabalhos: 5 pontos
+Avaliação de Desempenho Acadêmico (ADA): 5 pontos
+
+
+Bibliografia
+
+Sudkamp, T.A. Languages and Machines: An Introduction to the Theory
+of Computer Science.
+
+Sipser, Michael. Introduction to the theory of computation.
+
+
