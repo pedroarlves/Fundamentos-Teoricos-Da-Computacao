@@ -1,1 +1,1 @@
-# Fundamentos-Teoricos-Da-Computa-o
+# Fundamentos-Teoricos-Da-Computacao
